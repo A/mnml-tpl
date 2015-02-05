@@ -12,7 +12,7 @@ module.exports = function (template) {
     if (!locals) locals = {};
     return template.replace(matched, function(noop, key) {
       debug('render template `%s` with locals %o', template, locals);
-      return locals[key] || noop;
+      return key in locals ? locals[key] : noop;
     });
   };
 };
