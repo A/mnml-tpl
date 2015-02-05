@@ -1,5 +1,7 @@
 # Tiny Template
 
+[![Build Status](https://travis-ci.org/rambler-digital-solutions/tiny-template.svg)](https://travis-ci.org/rambler-digital-solutions/tiny-template)
+
 Replace all `:keys` in string with given object.
 
 
