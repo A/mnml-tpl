@@ -8,7 +8,7 @@ Replace all `:keys` in string with given object.
 ## Install
 
 ```
-npm i -S tiny-template
+npm i -S mnml-tpl
 ```
 
 ## Examples
