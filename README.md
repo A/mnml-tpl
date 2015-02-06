@@ -1,6 +1,6 @@
-# Tiny Template
+# Minimal Templates
 
-[![Build Status](https://travis-ci.org/rambler-digital-solutions/tiny-template.svg)](https://travis-ci.org/rambler-digital-solutions/tiny-template)
+[![Build Status](https://travis-ci.org/rambler-digital-solutions/mnml-tpl.svg?branch=master)](https://travis-ci.org/rambler-digital-solutions/mnml-tpl)
 
 Replace all `:keys` in string with given object.
 
