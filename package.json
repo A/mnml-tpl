@@ -1,24 +1,25 @@
 {
   "name": "tiny-template",
   "version": "1.0.0",
-  "description": "Tiny templates engine",
+  "description": "Hello :username, :repository is tiny string template engine",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shuvalov-anton/es6-tinytpl.git"
+    "url": "https://github.com/rambler-digital-solutions/tiny-template.git"
   },
   "keywords": [
-    "templates"
+    "templates",
+    "strings"
   ],
   "author": "shuvalov-anton <anton@shuvalov.info>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuvalov-anton/es6-tinytpl/issues"
+    "url": "https://github.com/rambler-digital-solutions/tiny-template/issues"
   },
-  "homepage": "https://github.com/shuvalov-anton/es6-tinytpl",
+  "homepage": "https://github.com/rambler-digital-solutions/tiny-template",
   "dependencies": {
     "debug": "^2.1.1"
   },
