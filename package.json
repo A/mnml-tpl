@@ -1,5 +1,5 @@
 {
-  "name": "tiny-template",
+  "name": "mnml-tpl",
   "version": "1.0.0",
   "description": "Hello :username, :repository is tiny string template engine",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rambler-digital-solutions/tiny-template.git"
+    "url": "https://github.com/rambler-digital-solutions/mnml-tpl.git"
   },
   "keywords": [
     "templates",
@@ -17,9 +17,9 @@
   "author": "shuvalov-anton <anton@shuvalov.info>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rambler-digital-solutions/tiny-template/issues"
+    "url": "https://github.com/rambler-digital-solutions/mnml-tpl/issues"
   },
-  "homepage": "https://github.com/rambler-digital-solutions/tiny-template",
+  "homepage": "https://github.com/rambler-digital-solutions/mnml-tpl",
   "dependencies": {
     "debug": "^2.1.1"
   },
