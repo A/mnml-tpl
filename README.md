@@ -21,7 +21,7 @@ var template = 'ssh :user@:host';
 tpl(template)(locals); // ssh hello@world
 ```
 
-## Licence
+## License
 
 MIT
 
