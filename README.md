@@ -14,7 +14,7 @@ npm i -S mnml-tpl
 ## Examples
 
 ```js
-var tpl = require('tiny-template');
+var tpl = require('mnml-tpl');
 
 var locals = { host: 'world', user: 'hello' };
 var template = 'ssh :user@:host';
