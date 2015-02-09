@@ -1,6 +1,6 @@
 {
   "name": "mnml-tpl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hello :username, :repository is tiny string template engine",
   "main": "index.js",
   "scripts": {
