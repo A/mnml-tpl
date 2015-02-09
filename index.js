@@ -1,7 +1,7 @@
 'use strict';
 
 // Dependencies
-var debug = require('debug')('tiny-template');
+var debug = require('debug')('mnml-tpl');
 
 // Settings
 var matched = /\:([A-Za-z0-9_]+)/g;
